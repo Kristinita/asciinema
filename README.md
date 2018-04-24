@@ -3,8 +3,7 @@
 [![Build Status](https://travis-ci.org/asciinema/asciinema.svg?branch=master)](https://travis-ci.org/asciinema/asciinema)
 [![license](http://img.shields.io/badge/license-GNU-blue.svg)](https://raw.githubusercontent.com/asciinema/asciinema/master/LICENSE)
 
-Terminal session recorder and the best companion of
-[asciinema.org](https://asciinema.org).
+Terminal session recorder and the best companion of [asciinema.org](https://asciinema.org).
 
 [![demo](https://asciinema.org/a/624fjx2rx7k3pctdozw7m8b24.png)](https://asciinema.org/a/624fjx2rx7k3pctdozw7m8b24?autoplay=1)
 
